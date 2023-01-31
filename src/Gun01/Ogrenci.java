@@ -8,5 +8,8 @@ public class Ogrenci {
         int sayi2=9;
         System.out.println("toplam = " + sayi1+sayi2);
 
+        System.out.println("merhaba 2");
+        System.out.println("adanali");
+
     }
 }
