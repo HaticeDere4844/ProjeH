@@ -11,5 +11,7 @@ public class Ogrenci {
         System.out.println("merhaba 2");
         System.out.println("adanali");
 
+        System.out.println(" carpim= " + sayi1*sayi2);
+
     }
 }
